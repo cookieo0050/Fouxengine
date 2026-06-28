@@ -11,7 +11,7 @@ https://trenchbroom.github.io/
 
 this engine tryes to improve performance and higher quality and tryes to make it a more modern engine.
 
-this engine still is under the GLM licence.
+this engine still is under the GPL licence.
 
 for scripting it uses C/CPP just like Quake 3
 
