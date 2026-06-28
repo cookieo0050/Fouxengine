@@ -1,0 +1,12 @@
+# Build outputs
+/build/
+/Release/
+/Debug/
+*.exe
+*.dll
+*.o
+*.obj
+
+# OS generated files
+.DS_Store
+Thumbs.db
